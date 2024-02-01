@@ -1,0 +1,18 @@
+.modal__button {
+    all: unset;
+    margin-top: 46px;
+    width: 100%;
+    height: 46px;
+    color: var(--white);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: var(--black);
+    cursor: pointer;
+  }
+  
+  .modal__button:hover {
+    opacity: 0.6;
+  }
